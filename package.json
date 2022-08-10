@@ -1,0 +1,12 @@
+{
+  "name": "FX-EVM-Blocks-Mainnet",
+  "license": "UNLICENSED",
+  "scripts": {
+    "codegen": "graph codegen",
+    "build": "graph build"
+  },
+  "dependencies": {
+    "@graphprotocol/graph-cli": "^0.17.1",
+    "@graphprotocol/graph-ts": "0.17.0"
+  }
+}
